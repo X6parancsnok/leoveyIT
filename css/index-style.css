@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: thin;
+    padding: 0;
+    margin: 0;
+    background-color: #151515;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:link{
+    color: white;
+}
+
+a:active{
+    color: #404040;
+}
+
+a:hover{
+    color: rgb(0, 204, 255)
+}
+
+.menu{
+    padding: 20px;
+}
+
+.menu .menuBox{
+    width: 500px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.menu a{
+    font-size: 26px;
+    padding: 10px;
+}
+
+.menu .menuTitle{
+    color: rgb(0, 204, 255);
+}
+
+.deploying{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.emailAddress{
+    text-decoration: underline;
+}
